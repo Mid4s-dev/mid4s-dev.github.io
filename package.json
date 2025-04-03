@@ -1,0 +1,25 @@
+{
+  "name": "mid4s-dev.github.io",
+  "version": "1.0.0",
+  "description": "[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp; [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mid4s-dev/mid4s-dev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mid4s-dev/mid4s-dev.github.io/issues"
+  },
+  "homepage": "https://github.com/Mid4s-dev/mid4s-dev.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.1"
+  }
+}
