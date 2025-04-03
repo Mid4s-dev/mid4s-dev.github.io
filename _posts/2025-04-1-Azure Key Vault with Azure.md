@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Your Post Title"
+date: 2025-04-03 12:00:00 +0000
+categories: [category1, category2]
+tags: [tag1, tag2]
+---
+
 # Integration of Azure Key Vault with Azure SQL Database for Data Encryption
 
 ## Introduction
