@@ -1,1 +1,18 @@
- 
+ /* filepath: /home/ice/documents/mid4s-dev.github.io/assets/co/custom.css */
+
+body {
+    background-color: #f9f9f9;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+a {
+    color: #007acc;
+}
+
+a:hover {
+    color: #005f99;
+}
