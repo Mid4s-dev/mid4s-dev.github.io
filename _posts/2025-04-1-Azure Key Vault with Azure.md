@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Your Post Title"
+title: "Integration of Azure Key Vault with Azure SQL Database for Data Encryption"
 date: 2025-04-03 12:00:00 +0000
-categories: [category1, category2]
-tags: [tag1, tag2]
+categories: [Azure, Cloud, Security]
+tags: [azure, keyvault, sql, encryption, security]
+pin: false
 ---
 
 # Integration of Azure Key Vault with Azure SQL Database for Data Encryption
