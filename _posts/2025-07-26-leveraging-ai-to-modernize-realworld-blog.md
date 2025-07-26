@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leveraging AI to Modernize the RealWorld Blog: A Developer's Journey"
-date: 2025-07-26 12:00:00 +0000
+date: 2025-07-26 08:00:00 +0000
 categories: [AI, Web Development, Modern Architecture]
 tags: [ai, realworld, blog, modernization, github-copilot, ai-assisted-development]
 pin: false
